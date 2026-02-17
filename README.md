@@ -1,2 +1,2 @@
 # codes-and-data
-PtM3
+Codes and Data for “Machine Learning Accelerates the Discovery of Efficient Oxygen Reduction Electrocatalysts High-Entropy Intermetallic Compounds Pt(FeCoNiCuZn)3” 
